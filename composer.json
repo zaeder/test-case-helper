@@ -18,6 +18,9 @@
     "require-dev": {
         "phpunit/phpunit": ">7.0"
     },
+    "suggest": {
+        "symfony/framework-bundle" : "^4.0"
+    },
     "config": {
         "preferred-install": {
             "*": "dist"
